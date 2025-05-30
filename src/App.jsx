@@ -25,7 +25,7 @@ import temperance from './assets/cards/temperance.png'; // JPG → PNG
 import theDevil from './assets/cards/the-devil.png'; // JPG → PNG
 import theTower from './assets/cards/the-tower.png'; // JPG → PNG
 import theStar from './assets/cards/the-star.png'; // JPG → PNG
-import theMoon from './assets/cards/the-moon.png'; // JPG → PNG
+import theMoon from './assets/cards/the-new-moon.png'; // JPG → PNG
 import theSun from './assets/cards/the-sun.png'; // JPG → PNG
 import judgement from './assets/cards/judgement.png'; // JPG → PNG
 import theWorld from './assets/cards/the-world.png'; // JPG → PNG
